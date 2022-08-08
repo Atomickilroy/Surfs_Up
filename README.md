@@ -13,20 +13,20 @@
 
 ## Results 
 ---
-### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
+### ***June Statistics*** 
 ![June_stats.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_stats.png)
 
 
-### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
+### ***December Statistics***  
 ![dec_stats.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/dec_stats.png)
 
 
-### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
+### ***We can infer that a vast majority of the observations were over 67 degrees*** 
 ![june_hist.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_hist.png)
 
 
-### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
-![Dec_hist.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_hist.png)
+### ***We can infer that a vast majority of the observations were over 67 degrees*** 
+![Dec_hist.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/Dec_hist.png)
 
 
 ### *Location selected based on temperature with hotel information.* 
@@ -42,7 +42,4 @@
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 
 ### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
-
-
-
 
