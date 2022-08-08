@@ -14,19 +14,19 @@
 ## Results 
 ---
 ### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
-!(June_stats.png)[https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_stats.png]
+![June_stats.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_stats.png)
 
 
 ### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
-!(dec_stats.png)[https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/dec_stats.png]
+![dec_stats.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/dec_stats.png)
 
 
 ### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
-!(june_hist.png)[https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_hist.png]
+![june_hist.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_hist.png)
 
 
 ### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
-!(Dec_hist.png)[https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_hist.png]
+![Dec_hist.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_hist.png)
 
 
 ### *Location selected based on temperature with hotel information.* 
@@ -43,20 +43,6 @@ There is a high-level summary of the results and there are two additional querie
 
 ### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
 
 
