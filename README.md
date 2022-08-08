@@ -13,46 +13,31 @@
 
 ## Results 
 ---
+### ***March Statistics***
+### ***The vast majority of the observations were over 70 degrees***
+
+![march_stats](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/March_stats.png).\ ![march_hist](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/march_hist.png).\ ![march_line](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/march_temp.png)
+
 ### ***June Statistics***
-### ***We can infer that a vast majority of the observations were over 70 degrees*** 
+### ***The vast majority of the observations were over 70 degrees*** 
 
 
-![June_stats.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_stats.png).\ ![june_hist.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_hist.png)
+![June_stats.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_stats.png).\ ![june_hist.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/Dec_hist.png).\  ![june_line](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/june_line.png)
 
+
+### ***September Statistics*** 
+***The vast majority of the observations were less than 72 degrees***
+
+![sept_stats](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/Sept_stats.png).\ ![sept_hist](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/sept_hist.png).\ ![sept_line](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/sept_line.png)
 
 ### ***December Statistics*** 
-***We can infer that a vast majority of the observations were over 65 degrees***
+***The vast majority of the observations were less than 72 degrees***
 
-![dec_stats.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/dec_stats.png).\ ![Dec_hist.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/Dec_hist.png)
-
-
-
-
-
-
- 
+![dec_stats.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/dec_stats.png).\ ![Dec_hist.png](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/June_hist.png).\ ![dec_line](https://github.com/Atomickilroy/Surfs_Up/blob/main/Graphs/dec_line.png)
 
 
 ## Summary:
 ---
-### ***Location selected based on temperature with travel routes.*** 
+### ***As shown above even for the temperature is key on Location selected based on temperature with travel routes.*** 
 
-#Looking at this plot, we can infer that a vast majority of the observations were over 67 degrees
-
-
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-
-### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
-## Summary:
----
-### ***Location selected based on temperature with travel routes.*** 
-
-#Looking at this plot, we can infer that a vast majority of the observations were over 67 degrees
-
-
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-
-### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
 
